@@ -1,2 +1,2 @@
 # Engram
-Engram Neural Modeling Labs. to be open sourced after publication.
+Engram Neural Modeling Labs accelerates research in computational neuroscience. Will be open sourced after publication.
